@@ -3,14 +3,14 @@
 
     <groupId>org.bubblecloud</groupId>
     <artifactId>vecmath</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <scm>
         <url>https://github.com/bubblecloud/vecmath.git</url>
         <connection>scm:git:git://github.com:bubblecloud/vecmath.git</connection>
         <developerConnection>scm:git:git@github.com:bubblecloud/vecmath.git</developerConnection>
-        <tag>M2RELEASE-TAG-NaN</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <!-- Deploy releases and snapshots to the CloudBees maven repositories -->
